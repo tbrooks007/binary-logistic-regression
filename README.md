@@ -5,4 +5,4 @@ The data is pre-processed to normalize data types, fills in missing values and d
 
 To Train The Model
 - Install needed packages `pip install -r requirements.txt`
-_ Go to the root of the project and run `python predict.py`
+- Go to the root of the project and run `python predict.py`
