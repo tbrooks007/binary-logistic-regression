@@ -69,6 +69,11 @@ def predict(data):
 
 
 def load_and_process_raw_data(file):
+    """
+    Load and process training data.
+    :param file: string
+    :return: DataFrame
+    """
 
     # get raw data file
     path = build_data_path(file)
